@@ -1,4 +1,4 @@
-name: Sync upstream fork
+name: 自动同步仓库
 
 on:
   schedule:
